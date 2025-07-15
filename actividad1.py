@@ -1,4 +1,3 @@
-print("Prueba 1")
-print("Prueba 1")
-print("Prueba 1")
-print("Prueba 1")
+num= int(input("Agregue un numero: "))
+suma = 1 + num
+print(suma)
